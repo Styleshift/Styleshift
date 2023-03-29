@@ -1,4 +1,5 @@
-<-- ### Hi there 👋 --> 
+
+![600x200](https://user-images.githubusercontent.com/42125735/228689140-671275a5-e9d2-4666-a1a4-3e45bf9c9bdf.jpeg)
 
 <!--
 **Styleshift/Styleshift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
